@@ -1,5 +1,5 @@
 {
-  "name": "ovt-validator",
+  "name": "ovt-plugin-validator",
   "version": "1.0.0",
   "description": "ovt with validator functionalities",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baijijs/ovt-validator.git"
+    "url": "git+https://github.com/baijijs/ovt-plugin-validator.git"
   },
   "keywords": [
     "ovt",
@@ -17,9 +17,9 @@
   "author": "Felix liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baijijs/ovt-validator/issues"
+    "url": "https://github.com/baijijs/ovt-plugin-validator/issues"
   },
-  "homepage": "https://github.com/baijijs/ovt-validator#readme",
+  "homepage": "https://github.com/baijijs/ovt-plugin-validator#readme",
   "dependencies": {
     "validator": "^5.2.0"
   }
