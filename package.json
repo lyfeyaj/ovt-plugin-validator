@@ -1,10 +1,10 @@
 {
   "name": "ovt-plugin-validator",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "ovt with validator functionalities",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test --reporter nyan"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "ovt",
-    "validator"
+    "plugin",
+    "validator",
+    "validator.js"
   ],
   "author": "Felix liu",
   "license": "MIT",
@@ -21,6 +23,11 @@
   },
   "homepage": "https://github.com/baijijs/ovt-plugin-validator#readme",
   "dependencies": {
-    "validator": "^5.2.0"
+    "validator": "^6.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "ovt": "^1.1.0"
   }
 }

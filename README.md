@@ -1,6 +1,9 @@
-# Ovt Plugin for Validator.js
+Ovt Plugin for [validator.js](https://github.com/chriso/validator.js)
+=====================================================================
 
-Extended Methods:
+[![Build Status](https://travis-ci.org/lyfeyaj/ovt-plugin-validator.svg?branch=master)](https://travis-ci.org/lyfeyaj/ovt-plugin-validator)
+
+## Extended Methods:
 
 ```bash
 ### String validators
@@ -38,7 +41,6 @@ Extended Methods:
 # isMobilePhone
 # isMongoId
 # isMultibyte
-# isNull
 # isNumeric
 # isSurrogatePair
 # isURL
