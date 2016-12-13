@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baijijs/ovt-plugin-validator.git"
+    "url": "git+https://github.com/lyfeyaj/ovt-plugin-validator.git"
   },
   "keywords": [
     "ovt",
@@ -19,9 +19,9 @@
   "author": "Felix liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baijijs/ovt-plugin-validator/issues"
+    "url": "https://github.com/lyfeyaj/ovt-plugin-validator/issues"
   },
-  "homepage": "https://github.com/baijijs/ovt-plugin-validator#readme",
+  "homepage": "https://github.com/lyfeyaj/ovt-plugin-validator#readme",
   "dependencies": {
     "validator": "^6.2.0"
   },
