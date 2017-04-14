@@ -21,7 +21,7 @@ describe('ovt-plugin-validator', function() {
     'isByteLength',
     'isCreditCard',
     'isCurrency',
-    'isDate',
+    'isDataURI',
     'isDecimal',
     'isDivisibleBy',
     'isEmail',
