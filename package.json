@@ -1,6 +1,6 @@
 {
   "name": "ovt-plugin-validator",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ovt with validator functionalities",
   "main": "index.js",
   "scripts": {
