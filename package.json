@@ -1,6 +1,6 @@
 {
   "name": "ovt-plugin-validator",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "ovt with validator functionalities",
   "main": "index.js",
   "scripts": {
@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/lyfeyaj/ovt-plugin-validator#readme",
   "dependencies": {
-    "validator": "^10.11.0"
+    "validator": "^13.1.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "ovt": "^1.1.15"
+    "mocha": "^8.1.1",
+    "ovt": "^1.1.19"
   }
 }
